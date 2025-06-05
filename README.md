@@ -259,6 +259,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by the LeadPrioritizer Pro Team**
+**Built with ❤️ by Tuheen Sarkar**
 
 *Transform your leads into revenue with intelligent prioritization.*
