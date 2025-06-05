@@ -8,22 +8,22 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-38B2AC.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-##  Overview
+## 🌟 Overview
 
 LeadPrioritizer Pro is a comprehensive lead management platform that transforms raw lead data into actionable intelligence. Using advanced AI algorithms and real-time validation, it helps sales teams identify high-value prospects, optimize outreach strategies, and maximize conversion rates.
 
-###  Key Features
+### ✨ Key Features
 
-- **AI-Powered Lead Scoring** - Intelligent scoring algorithm with 90%+ accuracy
-- **Advanced Email Validation** - Real-time email verification with deliverability scoring
-- **Phone Number Validation** - International phone validation with type detection
-- **Comprehensive Analytics** - Interactive dashboards with conversion insights
-- **Data Enrichment** - Automated company and contact information enhancement
-- **Predictive Analytics** - Revenue forecasting and conversion probability
-- **Email Templates** - AI-generated personalized outreach templates
-- **Activity Tracking** - Complete lead interaction history
-- **Smart Prioritization** - 5-tier priority system with timeline recommendations
-- **Export Capabilities** - CSV/JSON export with custom column selection
+- **🤖 AI-Powered Lead Scoring** - Intelligent scoring algorithm with 90%+ accuracy
+- **📧 Advanced Email Validation** - Real-time email verification with deliverability scoring
+- **📱 Phone Number Validation** - International phone validation with type detection
+- **📊 Comprehensive Analytics** - Interactive dashboards with conversion insights
+- **🔍 Data Enrichment** - Automated company and contact information enhancement
+- **📈 Predictive Analytics** - Revenue forecasting and conversion probability
+- **📧 Email Templates** - AI-generated personalized outreach templates
+- **📋 Activity Tracking** - Complete lead interaction history
+- **🎯 Smart Prioritization** - 5-tier priority system with timeline recommendations
+- **📤 Export Capabilities** - CSV/JSON export with custom column selection
 
 ## 🚀 Quick Start
 
@@ -37,7 +37,7 @@ LeadPrioritizer Pro is a comprehensive lead management platform that transforms 
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/tuheensarkar/lead-prioritizer-pro.git
+   git clone https://github.com/yourusername/lead-prioritizer-pro.git
    cd lead-prioritizer-pro
    \`\`\`
 
@@ -58,7 +58,7 @@ LeadPrioritizer Pro is a comprehensive lead management platform that transforms 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-##  Usage
+## 📋 Usage
 
 ### 1. Upload Lead Data
 
@@ -87,7 +87,7 @@ LeadPrioritizer Pro is a comprehensive lead management platform that transforms 
 - **Activity Tracking**: Log calls, emails, meetings, and notes
 - **Data Enrichment**: Enhance profiles with additional information
 
-##  Architecture
+## 🏗️ Architecture
 
 ### Tech Stack
 
@@ -125,7 +125,7 @@ lead-prioritizer-pro/
 └── public/               # Static assets
 \`\`\`
 
-##  Features Deep Dive
+## 🎯 Features Deep Dive
 
 ### Lead Scoring Algorithm
 
@@ -185,6 +185,30 @@ NEXT_PUBLIC_APP_VERSION="1.0.0"
 - **Validation Rules**: Customize validation logic in the utils file
 - **UI Theme**: Modify Tailwind configuration for branding
 
+## 🚀 Deployment
+
+### Vercel (Recommended)
+
+1. Push your code to GitHub
+2. Connect your repository to Vercel
+3. Deploy with one click
+
+### Other Platforms
+
+- **Netlify**: Build command: `npm run build`, Publish directory: `out`
+- **Docker**: Use the included Dockerfile
+- **Traditional Hosting**: Build with `npm run build` and serve the `out` directory
+
+## 🤝 Contributing
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
 ### Development Guidelines
 
 - Follow TypeScript best practices
@@ -193,32 +217,32 @@ NEXT_PUBLIC_APP_VERSION="1.0.0"
 - Add tests for new features
 - Update documentation as needed
 
-##  Performance
+## 📈 Performance
 
 - **Load Time**: < 2 seconds for initial page load
 - **Processing Speed**: 1000+ leads processed per second
 - **Validation Accuracy**: 95%+ email validation accuracy
 - **Scoring Precision**: 90%+ lead scoring accuracy
 
-##  Security
+## 🔒 Security
 
 - Client-side processing (no data leaves your browser)
 - No external API calls for sensitive data
 - Local storage for temporary data only
 - GDPR compliant data handling
 
-##  License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##  Support
+## 🆘 Support
 
-- **Documentation**: [Wiki](https://github.com/tuheensarkar/lead-prioritizer-pro/wiki)
-- **Issues**: [GitHub Issues](https://github.com/tuheensarkar/lead-prioritizer-pro/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/tuheensarkar/lead-prioritizer-pro/discussions)
+- **Documentation**: [Wiki](https://github.com/yourusername/lead-prioritizer-pro/wiki)
+- **Issues**: [GitHub Issues](https://github.com/yourusername/lead-prioritizer-pro/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/lead-prioritizer-pro/discussions)
 - **Email**: support@leadprioritizer.pro
 
-##  Acknowledgments
+## 🙏 Acknowledgments
 
 - [Next.js](https://nextjs.org/) - The React framework for production
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
@@ -226,15 +250,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Recharts](https://recharts.org/) - Composable charting library
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons
 
-##  Stats
+## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/tuheensarkar/lead-prioritizer-pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tuheensarkar/lead-prioritizer-pro?style=social)
-![GitHub issues](https://img.shields.io/github/issues/tuheensarkar/lead-prioritizer-pro)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tuheensarkar/lead-prioritizer-pro)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/lead-prioritizer-pro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/lead-prioritizer-pro?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/lead-prioritizer-pro)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/lead-prioritizer-pro)
 
 ---
 
-**Built with ❤️ by Tuheen Sarkar**
+**Built with ❤️ by the LeadPrioritizer Pro Team**
 
 *Transform your leads into revenue with intelligent prioritization.*
